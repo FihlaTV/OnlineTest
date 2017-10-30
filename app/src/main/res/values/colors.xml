@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1F2745</color>
+    <color name="colorPrimaryDark">#1F2745</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBarText">#AEB1B1</color>
+    <color name="colorDot">#595959</color>
+    <color name="colorSkip">#99c4c4c4</color>
+    <color name="colorSkipStroke">#99c4c4c4</color>
+</resources>
